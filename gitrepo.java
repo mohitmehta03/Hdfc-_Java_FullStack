@@ -7,12 +7,6 @@ class gitrepo
     System.out.print("input your name : ");
     String name=s.next();
     System.out.print("hello " +name);
-    zfxvgx;
-    fsndd\fdzfd';d
-    dsfs
-    ;d;
-    f.df
-  }
-
 }
-changes made saikumar
+}
+
