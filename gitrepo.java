@@ -6,5 +6,7 @@ class gitrepo
     Scanner s = new Scanner(System.in);
     System.out.print("input your name : ");
     
+    zfxvgx;
   }
+
 }
